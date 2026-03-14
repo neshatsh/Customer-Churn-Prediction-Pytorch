@@ -1,0 +1,38 @@
+# Model artefacts
+preprocessor.pkl
+churn_model.pt
+feature_names.json
+serve.py
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# PySpark / Parquet output
+/tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
+.venv/
